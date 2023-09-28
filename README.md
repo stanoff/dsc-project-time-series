@@ -39,36 +39,6 @@ SizeRank - shows the relative size of the region compared to other regions in th
 
 1996 upto 2018 - 	depicts the median home price for the region in months and years. It is a float (float64) data type.
 
-**Importing the libraries**
-
-In the cell below we will import the python libraries and modules that will be relevant for our study
-
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-%matplotlib inline
-
-from sklearn.metrics import mean_squared_error
-import statsmodels.api as sm
-from statsmodels.tsa.seasonal import seasonal_decompose
-from statsmodels.tsa.stattools import adfuller
-from statsmodels.graphics.tsaplots import plot_acf,plot_pacf
-import pmdarima as pm
-from statsmodels.tsa.arima.model import ARIMA
-from statsmodels.tsa.statespace.sarimax import SARIMAX
-from sklearn.metrics import mean_squared_error as MSE
-from math import sqrt
-from matplotlib.pylab import rcParams
-
-**Load the data**
-
-We will then load the pandas dataframe and make sure to display all the columns
-
-# displaying all columns
-pd.set_option("display.max_columns",None)
-df= pd.read_csv('zillow_data.csv')
-df.head()  #To display the first 5 rows of our dataset
 
 **Feature Engineering**
 
