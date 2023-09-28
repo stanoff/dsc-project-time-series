@@ -1,5 +1,7 @@
 **TIME SERIES ANALYSIS FOR REAL ESTATE INVETSMENT**
 
+![Alt text](image.png)
+
 **INTRODUCTION**
 
 Real estate refers to physical property consisting of land, buildings, and any natural resources found on or beneath the land's surface. It is a tangible asset that encompasses a wide range of properties, including residential homes, commercial buildings, industrial facilities, vacant land, and more. Real estate is a fundamental component of the economy and plays a significant role in various aspects of society, including housing, commerce, and investment.Real estate is a valuable asset class that can appreciate in value over time, generate rental income, and provide a hedge against inflation. It is also a common investment choice for individuals and institutions looking to diversify their portfolios. The real estate market can be influenced by factors such as supply and demand, economic conditions, interest rates, and government policies.
